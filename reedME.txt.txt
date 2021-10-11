@@ -1,0 +1,1 @@
+w katalogu covidSimulation znajduje się app web która dodaje i edytuje modele z danymi symulacji oraz zapisuje je w bazie phpMyAdmin odpalonej przy pomocy xampp, nazwa i dane bazy w pliku konfiguracyjnym hibernaita, w katalogu resultModel znajduje się pierwsza z 4 metod obliczeniowych calcPi. niestety nie zakończyłem prac i integracji i popracy css aplikacji.
